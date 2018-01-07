@@ -421,7 +421,7 @@
   <string name="saf_failed_to_create_directory">Nie można utworzyć folderu %s</string>
   <string name="saf_file_exist">Ten plik już istnieje</string>
   <string name="saf_bad_mime_type">Zły typ żądania</string>
-  <!--Single Sign-On SSO-->
+  <!--Single Sign-On  SSO-->
   <string name="shib_server_url_empty">Serwer jest pusty!</string>
   <string name="shib_server_incorrect_prefix">Nazwa serwera musi się zaczynać od https://</string>
   <string name="shib_load_page_error">Błąd:</string>
